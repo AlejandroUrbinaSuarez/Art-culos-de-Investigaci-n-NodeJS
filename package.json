@@ -1,0 +1,29 @@
+{
+  "name": "art-culos-de-investigaci-n-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroUrbinaSuarez/Art-culos-de-Investigaci-n-NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroUrbinaSuarez/Art-culos-de-Investigaci-n-NodeJS/issues"
+  },
+  "homepage": "https://github.com/AlejandroUrbinaSuarez/Art-culos-de-Investigaci-n-NodeJS#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
